@@ -1,0 +1,11 @@
+f28a5598b82e820afc7be473b9e05ca2 *DESCRIPTION
+a8a072a861d21df988b7f576b730161d *NAMESPACE
+c5d9e1cef199f36771fbf0fffc73d46b *R/RnDif.het.R
+8bb6db9aa9139aab3c5e236dc3539837 *R/RnDif.hom.R
+898deb050b5d6edc1c987e677d58e566 *R/RnDifAdv.hom.R
+9e5f66fa9417a47bfd5e7fce53bd7fd4 *R/SoilAdv.hom.R
+b3f31f529ab9415fe62016af9a88a069 *man/RadTran-package.Rd
+071e15dc1ff4c4564f5d0735b4aa6a23 *man/RnDif.het.Rd
+1dd38175b8601eff2ac9b77d8c00cfd2 *man/RnDif.hom.Rd
+4fd7f407a8d1ee83b550a70f79391f9e *man/RnDifAdv.hom.Rd
+d2e9ac2f27e77d8cd2f223a9948d11e9 *man/SoilAdv.hom.Rd

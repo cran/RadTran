@@ -1,0 +1,7 @@
+importFrom(ReacTran,setup.grid.1D)
+importFrom(ReacTran,setup.grid.2D)
+importFrom(ReacTran,setup.prop.2D)
+importFrom(ReacTran,tran.2D)
+importFrom(rootSolve,steady.2D)
+export(RnDif.het,RnDif.hom,RnDifAdv.hom,SoilAdv.hom)
+
